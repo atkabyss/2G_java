@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="yuusya:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/yuusya_jar</output-path>
+    <root id="archive" name="yuusya.jar">
+      <element id="module-output" name="yuusya" />
+    </root>
+  </artifact>
+</component>
